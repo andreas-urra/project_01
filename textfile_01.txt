@@ -1,2 +1,3 @@
-text file no 1
+ext file no 1
 with change no 01
+with change no 02 (local)
